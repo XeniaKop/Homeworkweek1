@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+h1{
+  color:blueviolet;
+  font-family:Georgia;
+  text-decoration:underline;
+}
+</style>
+</head>
+<body>
+<h1>About me</h1>
+<p>
+<strong>My name is Ksenija (Xenia), I'm from Latvia, but I have been living in UK for 18 years.</strong>
+</p>
+<p>
+<strong>I have a husband :) 3 children and 2 guinea pigs :)</strong>
+</p>
+<a href="https://lh3.googleusercontent.com/uVAc47vPW9hTXLtGiWTy-NLL_J58vGPWrgxCZLbrR7pqo1w7e59KgSYT3aZvQr4s1qgy4heqZ2F_xn5caWR-TgHcIUsDqql46aCy1ITbx92WkkAKNV6VKOzuLrILY765E-VMcPidZDE=w2400?source=screenshot.guru">
+        <img src="https://lh3.googleusercontent.com/uVAc47vPW9hTXLtGiWTy-NLL_J58vGPWrgxCZLbrR7pqo1w7e59KgSYT3aZvQr4s1qgy4heqZ2F_xn5caWR-TgHcIUsDqql46aCy1ITbx92WkkAKNV6VKOzuLrILY765E-VMcPidZDE=w600-h315-p-k"
+            width="250" /> </a>
+<p>
+<strong>I never thought about IT, but decided to try.<br>If you don't try you won't know.</strong>
+</p>
+<ul>
+<li><em>Love to travel</em></li>
+<li><em>Love to read</em></li>
+<li><em>Love to spend time with my family</em></li>
+</body>
+</html>
